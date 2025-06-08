@@ -18,9 +18,9 @@
 
 | Landing Page | About Section |
 |--------------|----------------|
-| ![Landing Page]("D:\VSS\Dhanadhyaksh\Dhanadhyaksh\FEE-II Landing page\images\Landing Page.png") | ![About Section]("D:\VSS\Dhanadhyaksh\Dhanadhyaksh\FEE-II Landing page\images\About.png") |
-
 > 📌 Make sure to place these images in a `screenshots/` folder within your repo.
+![Landing Page](https://github.com/user-attachments/assets/56918b81-2ee8-4ebf-bba0-6aded72c345f)
+![About](https://github.com/user-attachments/assets/b7d13e32-340a-4492-a13a-34575be1366a)
 
 ---
 
