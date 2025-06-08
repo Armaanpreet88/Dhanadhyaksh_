@@ -18,7 +18,7 @@
 
 | Landing Page | About Section |
 |--------------|----------------|
-| ![Landing Page](./screenshots/Screenshot%202025-06-08%20124921.png) | ![About Section](./screenshots/Screenshot%202025-06-08%20124941.png) |
+| ![Landing Page]("D:\VSS\Dhanadhyaksh\Dhanadhyaksh\FEE-II Landing page\images\Landing Page.png") | ![About Section]("D:\VSS\Dhanadhyaksh\Dhanadhyaksh\FEE-II Landing page\images\About.png") |
 
 > 📌 Make sure to place these images in a `screenshots/` folder within your repo.
 
@@ -26,13 +26,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
-- **APIs:** Custom REST APIs
+- **Frontend:** HTML5, CSS, Javascript
 - **Version Control:** Git & GitHub
-- **Deployment:** Vercel / Netlify (frontend), Render / Heroku (backend)
+- **Deployment:** 
 
 ---
 
