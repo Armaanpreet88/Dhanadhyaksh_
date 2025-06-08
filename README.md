@@ -80,7 +80,7 @@
 
 ## 🌐 Live Demo
 
-[🔗 Click here to try Dhanadhyaksh live](https://your-live-deployment-link.com)
+[🔗 Click here to try Dhanadhyaksh live](dhanadhyaksh-7qd7f7amn-armaanpreets-projects.vercel.app)
 
 ---
 
